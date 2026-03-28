@@ -26,6 +26,7 @@
 </tr>
 
 <?php
+
 $result = $conn->query("SELECT * FROM pedidos");
 
 while($row = $result->fetch_assoc()){
