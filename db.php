@@ -1,5 +1,5 @@
 <?php
-$host = " mysql-apijorge.alwaysdata.net";
+$host = "mysql-apijorge.alwaysdata.net";
 $user = "apijorge";
 $pass = "clase1234";
 $db = "apijorge_pasteleria";
